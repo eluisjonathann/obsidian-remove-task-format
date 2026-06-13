@@ -1,0 +1,10 @@
+{
+  "id": "obsidian-remove-task-format",
+  "name": "Remove Task Format",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "Quita el formato de tarea ([ ] o [x]) de la línea actual con un atajo de teclado.",
+  "author": "eluisjonathan",
+  "authorUrl": "https://github.com/eluisjonathann",
+  "isDesktopOnly": false
+}

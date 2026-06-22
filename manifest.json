@@ -1,7 +1,7 @@
 {
   "id": "remove-task-format",
   "name": "Remove Task Format",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "minAppVersion": "0.15.0",
   "description": "Remove task checkbox formatting ([ ] or [x]) from the current line using a keyboard shortcut.",
   "author": "eluisjonathan",
